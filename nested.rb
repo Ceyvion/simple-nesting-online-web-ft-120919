@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+ return programmer_hash[:known_for]
 
 end
 
